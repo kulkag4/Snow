@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Label1" max_length="40" name="x_127330_snow_stor_label1" type="collection"/>
+</database>
